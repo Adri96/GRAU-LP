@@ -1,0 +1,19 @@
+F1 = [10,3,blau]
+F7 = 2*3*F1
+F2 = F1 / [10,10,groc] | [3,1,vermell]
+F3 = F1 + 2*F2 + [8,9,verd]
+F4 = F2 + F3 | F1
+F5 = F2 + 2*(F3 | F1)
+F6 = [4,5,verd]
+F8 = [30,50,verd ] / ( [30,50,blau] \ ( [30,50,blau] \ [30,100,blau] ) )
+altu F8
+area F5
+area F3 \ [30,40,blau]
+altu F2 + F3 + F4
+PLAY
+0 on F1
+5 on F2
+5 on F3
+10 off F2
+15 on F4
+30 off F1
