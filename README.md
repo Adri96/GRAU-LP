@@ -1,3 +1,10 @@
 # GRAU-LP (Llenguatges de Programació)
 
-QP 2014-2015 - FIB UPC
+**LP - Q2 2014-2015 - FIB UPC**
+
+Sessions de laboratori + pràctiques
+
+* Haskell
+* Compilació
+* Python
+
